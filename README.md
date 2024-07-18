@@ -25,6 +25,7 @@
 <h1 align="center">Hi 👋, I'm Vasu Kotadiya</h1>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasukotadiya7&label=Profile%20views&color=0e75b6&style=flat" alt="vasukotadiya7" /> </p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
