@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm from Gandhinagar <br><br>- 🔭 I’m working as Software Developer <br>- 📚 I'm currently learning <strong> Flutter,NextJS,AWS </strong><br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Gandhinagar <br><br>- 🔭 I’m working as Software Developer <br>- 📚 I'm currently learning <strong> Kubernetes </strong><br>- ⚡ In my free time I ...</p>
 
 ###
 
